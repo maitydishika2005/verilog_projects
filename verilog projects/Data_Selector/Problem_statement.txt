@@ -1,0 +1,7 @@
+Implementation of a simple system (Data Selector)
+Program:
+1. R <- X
+2. S <- R0 V R3
+3. -> (S,~S)/(4,1)
+4. Z <- R
+     -> (1)
