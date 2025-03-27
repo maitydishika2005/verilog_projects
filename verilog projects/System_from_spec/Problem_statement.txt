@@ -1,4 +1,0 @@
-Design a system from its specifications where X is a 4 bit input vector and a,b are control inputs.
-when a=0 and b=0 X is not transferred. when a=0 and b=1 X is transferred without modifications.
-When a=1 and b=0 X is transferred rotating by one space right.
-When a=1 and b=1 X is transferred by rotating by two spaces right.
